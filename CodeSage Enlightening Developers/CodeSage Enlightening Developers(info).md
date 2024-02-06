@@ -5,6 +5,8 @@ CodeSage: Enlightening Developers
 CodeSage is an intelligent chat-bot designed to assist developers in clearing their coding and development concepts. Whether you’re a beginner or an experienced coder, CodeSage is here to provide accurate answers, practical code examples, and guidance.
 ## keywords & technologies used 
    - TFX
+   - Tensorflow
+   - PyTorch
    - GPT-3 ;ChatGPT API
    - CI/CD
    - DOCKER
@@ -15,8 +17,10 @@ CodeSage is an intelligent chat-bot designed to assist developers in clearing th
    - [MadeWithML](https://madewithml.com/#course)
    - [OpenAI API](https://platform.openai.com/docs/overview)
    - [TFX](https://www.tensorflow.org/tfx)
+   - [PyTorch](https://pytorch.org/)
    - [Langchain](https://www.langchain.com/)
    - [BLOOM ; pretrained model to use for project & tweak accordingly](https://huggingface.co/docs/transformers/model_doc/bloom)
+
 ## Project Overview
 
   - **Objective**: Create a chat-bot that combines the precision of a custom-trained model (using TensorFlow Extended) for coding-related queries with the versatility of OpenAI’s ChatGPT for broader topics.
