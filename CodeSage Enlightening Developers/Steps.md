@@ -6,6 +6,7 @@
 ## 4.1 Deploy model in real-time ( in my PC for once--> demo video )
 ## 4.2 Deploy in cloud for free tier ( google cloud platform/ kubernete( GKE) )
 ## 5. create Web Application for model serving ( deployed on cloud for free , make demo video )
-## 6. create Docker Image and other developer tools for other contributors to improve this project
+## 6.1 documentation and license
+## 6.2 create Docker Image and other developer tools for other contributors to improve this project
 ## 7. Iterate and improve
 
