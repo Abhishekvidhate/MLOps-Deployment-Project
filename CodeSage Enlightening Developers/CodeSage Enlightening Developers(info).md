@@ -13,8 +13,9 @@ CodeSage is an intelligent chat-bot designed to assist developers in clearing th
    - Google Cloud Platform API
    - kubernete
 
-## Resources & code references  
+## Resources & code references 
    - [MadeWithML](https://madewithml.com/#course)
+   - [MadeWithML-->RAG-Based-LLM-Guide](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
    - [OpenAI API](https://platform.openai.com/docs/overview)
    - [TFX](https://www.tensorflow.org/tfx)
    - [PyTorch](https://pytorch.org/)
